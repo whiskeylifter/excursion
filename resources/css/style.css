@@ -1,13 +1,32 @@
-h1 {
+h1, h2, h6{
 font-family: verdana;
+text-align: center;
+}
+
+h1 {
 font-size: 50px;
 color: white;
-text-align: center;
-background-color: black;
 }
 
 h6 {
 color: aquamarine;
 font-size: 16px;
+}
+
+h4{
+color: gray;
+text-align: right;
+}
+
+.video, .images {
 text-align: center;
+}
+
+h2{
+font-size: 21px;
+color: gray;
+}
+
+body{
+background-color: black;
 }
